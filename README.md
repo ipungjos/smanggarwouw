@@ -1,2 +1,2 @@
 # smanggarwouw
-Kumpulam pemrograman phyton 2024
+Kumpulan pemrograman phyton 2024
